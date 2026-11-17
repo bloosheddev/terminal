@@ -1,0 +1,17 @@
+.projects-page::-webkit-scrollbar {
+  width: 30px;
+}
+
+.projects-page::-webkit-scrollbar-track {
+  background: #111111;
+  border-left: 1px solid #ffffff;
+}
+
+.projects-page::-webkit-scrollbar-thumb {
+  background: #ffffff;
+  border: 1px solid #ffffff;
+}
+
+.projects-page::-webkit-scrollbar-thumb:hover {
+  background: #ffffff;
+}
